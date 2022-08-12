@@ -1,6 +1,6 @@
 # 合并 K 个升序链表
 
-2022/08/10
+2022/08/12
 
 > <https://leetcode.cn/problems/merge-k-sorted-lists/>
 
